@@ -1,0 +1,17 @@
+torch
+faiss-cpu
+sentence-transformers
+scikit-learn
+pytesseract
+Pillow
+PyMuPDF
+python-docx
+ollama
+fastapi
+uvicorn
+tqdm
+numpy
+matplotlib
+pyspellchecker
+python-multipart
+pydantic>=2

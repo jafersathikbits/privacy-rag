@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Private source documents and generated indexes
+data/raw/*
+!data/raw/.gitkeep
+indexes/
+*.pkl
+*.npy
+*.index
+
+# Logs and generated visualizations
+*.log
+*.csv
+embedding_masking.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
