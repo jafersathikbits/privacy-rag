@@ -217,4 +217,5 @@ The demo is not a hardened multi-user service. Do not commit private source docu
 
 ## License
 
-A license has not yet been added. The license file will be added when licensing is finalized for the project repositories. Until then, do not assume that the code is available for unrestricted reuse.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
